@@ -1,4 +1,4 @@
-# Sample Code for “Sequential and Parallel Algorithms and Data Structures: The Basic Toolbox” Book
+# Sample Code for “Sequential and Parallel Algorithms and Data Structures -- The Basic Toolbox” Book
 
 This software is subject to the U.S. Export Administration Regulations and other U.S. law,
 and may not be exported or re-exported to certain countries (Cuba, Iran, North
