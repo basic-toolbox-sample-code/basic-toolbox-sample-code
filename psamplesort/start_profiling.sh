@@ -1,0 +1,4 @@
+
+
+perf record  -a &
+
